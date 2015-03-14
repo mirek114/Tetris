@@ -1,0 +1,13 @@
+C:\nauka c#\Tetris\Tetris\bin\Debug\Tetris.exe.config
+C:\nauka c#\Tetris\Tetris\bin\Debug\Tetris.exe
+C:\nauka c#\Tetris\Tetris\bin\Debug\Tetris.pdb
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.Form1.resources
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.Properties.Resources.resources
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.csproj.GenerateResource.Cache
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.exe
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.pdb
+C:\nauka c#\Tetris\Tetris\bin\Debug\System.Data.SQLite.dll
+C:\nauka c#\Tetris\Tetris\bin\Debug\System.Data.SQLite.xml
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.Form2.resources
+C:\nauka c#\Tetris\Tetris\obj\Debug\Tetris.Form3.resources
