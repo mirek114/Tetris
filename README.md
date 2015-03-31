@@ -1,1 +1,1 @@
-# Tetris
+Gra Tetris. Stworzona z wykorzystaniem Windows Forms. Co minutę zwiększa sie prędkość spadajacych klocków oraz ilośc naliczanych punktów za ułożone pełne rzędy. Dziesięć najlepszych wyników zapisywane jest w bazie danych SQLite. Opis sterowania dostepny jest w zakładc Help.
